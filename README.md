@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vedant Kadam
 I'm a coding enthusiast who loves to build projects and solve complex problems.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 - Python, JavaScript, HTML/CSS
 - Machine Learning: scikit-learn
 - Tools: Git,  VS Code
