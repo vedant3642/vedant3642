@@ -2,9 +2,9 @@
 I'm a coding enthusiast who loves to build projects and solve complex problems.
 
 ## 💻 Tech Stack
-- Python, JavaScript, HTML/CSS
+- C/C++, Java, Python, JavaScript, HTML/CSS
 - Machine Learning: scikit-learn
-- Tools: Git,  VS Code
+- Tools: Git, GitHub, Replit, VS Code
 
 ## 📈 Projects
 - 🔮 
